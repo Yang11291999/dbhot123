@@ -1,37 +1,34 @@
-# jie1999
+# X主页 
 
-#### 介绍
-自定义主页
+X主页 - 简洁的搜索导航
 
-#### 软件架构
-软件架构说明
+## 图片
 
+预览[X主页](https://wxnan.gitee.io/x_home_page/) 
 
-#### 安装教程
+## 来源    
+  
+搜索栏取自 [SEOGO的钛导航](https://www.seogo.me/)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+菜单栏取自 [简单搜索](https://github.com/5iux/sou)  
 
-#### 使用说明
+影视功能取自 [i5看视频](https://github.com/yumusb/I5Player) 
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+源码取自[闲渡搜索](https://github.com/xiandus/search) 
 
-#### 参与贡献
+## 修改内容
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+增加天气挂件；
 
+增加今日诗词；
 
-#### 特技
+。。。
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 其它
+
+图标调用了[阿里](https://www.iconfont.cn/)的图标，为font-class引用；
+
+天气调用了[和风天气](https://dev.heweather.com/)的API；
+
+此浏览器主页主要是拿来修改自用。
+
